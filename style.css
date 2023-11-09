@@ -8,26 +8,33 @@ width: 180px;
 #imagem-jhonkuko{
 width: 180px;
 }
+
 #imagem-taeh{
 width: 180px;
 }
+
 #imagem-yoon{
 width: 180px;
 }
+
 #imagem-hope{
 width: 180px;
 }
+
 #imagem-joon{
 width: 180px;
 }
+
 #imagem-jin{
 width: 180px;
 }
+
 #titulo-principal{
-    text-align: center;
+ text-align: center;
 }
+
 .rodape{
     background-color: azure;
-    color:crimson
+    color:crimson;
     text-align: center;
 }
