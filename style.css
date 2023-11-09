@@ -26,3 +26,8 @@ width: 180px;
 #titulo-principal{
     text-align: center;
 }
+.rodape{
+    background-color: azure;
+    color:crimson
+    text-align: center;
+}
