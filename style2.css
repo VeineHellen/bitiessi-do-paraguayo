@@ -24,6 +24,9 @@
 
 .lista-links{
     font-size: 25px;
+}
+
+.lista-links li a{
     color: black;
     text-decoration: none;
 }
