@@ -1,5 +1,6 @@
 .fotos-centrais{
  text-align: center;
+ display: inline-block;
 }
 
 #imagem-bts{
