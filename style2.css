@@ -1,5 +1,5 @@
 .cabecalho{
-    background-color:black;
+    background-color:gray;
     border: 5px;
     border-color:blue;
     border-style: dashed;
@@ -14,9 +14,9 @@
 }
 
 .principal{
-    background-color:steelblue;
+    background-color:gray;
     border: 10px;
-    border-color:tomato;
+    border-color:aqua;
     border-style: double;
     margin: 30px;
     color:slateblue;
